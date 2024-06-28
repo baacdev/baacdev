@@ -52,8 +52,3 @@ Here are some ideas to get you started:
   
   </br></br>
   
-<div align="right">
-<a href="[https://www.pixiv.net/en/users/35069640](https://c4.wallpaperflare.com/wallpaper/139/610/492/quote-simple-motivational-minimalism-wallpaper-preview.jpg)">Image by baac</a>
-  </div>
-  </div>
-
