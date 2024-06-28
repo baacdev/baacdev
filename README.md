@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Brandon</h1>
-<p align = center ><img src="https://c4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview.jpg"> </p>
-
+<h1 align="center">Hi 👋, I'm Brandon 👨🏻‍💻</h1>
 <div>
 
 <img align="right" width="400" src="https://c4.wallpaperflare.com/wallpaper/765/999/824/portrait-display-vertical-artwork-digital-art-warrior-hd-wallpaper-preview.jpg"/>
