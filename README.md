@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div>
 
-<img align="right" width="400" alt="https://c4.wallpaperflare.com/wallpaper/817/397/84/naruto-shippuuden-akatsuki-uchiha-itachi-wallpaper-preview.jpg"/>
+<img align="right" width="400" alt="https://c4.wallpaperflare.com/wallpaper/364/693/218/portrait-display-vertical-yin-and-yang-artwork-minimalism-hd-wallpaper-preview.jpg"/>
 
 <h2> / about me /</h2>
   
