@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align = center ><img src="https://c4.wallpaperflare.com/wallpaper/139/610/492/quote-simple-motivational-minimalism-wallpaper-preview.jpg"> </p>
+<p align = center ><img src="https://c4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview.jpg"> </p>
 
 <div>
 
