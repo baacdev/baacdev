@@ -13,17 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Brandon 👨🏻‍💻</h1>
+<h1 align="center">Hola 👋, Soy Brandon 👨🏻‍💻</h1>
 <div>
 
 
-<h2> / About me /</h2>
+<h2> / Sobre mí /</h2>
   
-- ⭐ Currently working on **web-development**
-- 💀 Mostly working on **private repositories**
-- 👾 A **student** working his way around things
+- ⭐ Actualmente tengo mas conocimiento en **desarrollo web**.
+- ☕︎ Principalmente trabajando en **repositorios privados**.
+- 💼 Un **estudiante** en busca de experiencia.
   
-<h2> / Current skills / </h2>
+<h2> / Habilidades actuales / </h2>
   
 - <h4> Skills </h4>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
